@@ -40,6 +40,7 @@
 | [0013-roman-to-integer](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0013-roman-to-integer/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1844-replace-all-digits-with-characters](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
