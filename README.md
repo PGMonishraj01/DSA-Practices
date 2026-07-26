@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0013-roman-to-integer/) | Easy |
 | [0231-power-of-two](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0231-power-of-two/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -18,6 +19,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0628-maximum-product-of-three-numbers](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3731-find-missing-elements](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3731-find-missing-elements/) | Easy |
@@ -37,6 +39,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [3731-find-missing-elements](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3731-find-missing-elements/) | Easy |
 ## Simulation
