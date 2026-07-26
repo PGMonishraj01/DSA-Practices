@@ -1,12 +1,12 @@
 class Solution {
     public int sumBase(int n, int k) {
-       String ans = Integer.toString(n, k);
-       int x = Integer.valueOf(ans);
+    //    String ans = Integer.toString(n, k);
+    //    int x = Integer.valueOf(ans);
        int sum = 0;
-       while(x!=0){
-        int r = x%10;
+       while(n!=0){
+        int r = n%k;
         sum += r;
-        x/=10;
+        n/=k;
        }
        return sum;
     }
