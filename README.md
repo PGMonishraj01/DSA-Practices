@@ -4,6 +4,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0013-roman-to-integer/) | Easy |
 | [0231-power-of-two](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0231-power-of-two/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -23,11 +24,13 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0013-roman-to-integer/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [3731-find-missing-elements](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0013-roman-to-integer/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
