@@ -12,6 +12,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0231-power-of-two/) | Easy |
+| [0461-hamming-distance](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0461-hamming-distance/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
