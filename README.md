@@ -12,6 +12,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0231-power-of-two/) | Easy |
+| [0401-binary-watch](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0401-binary-watch/) | Easy |
 | [0461-hamming-distance](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0461-hamming-distance/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -76,4 +77,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0238-product-of-array-except-self/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0401-binary-watch](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0401-binary-watch/) | Easy |
 <!---LeetCode Topics End-->
