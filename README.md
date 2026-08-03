@@ -27,6 +27,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0040-combination-sum-ii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0047-permutations-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0877-stone-game/) | Medium |
@@ -60,6 +61,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0047-permutations-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [3731-find-missing-elements](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3731-find-missing-elements/) | Easy |
@@ -93,6 +95,7 @@
 | ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0047-permutations-ii/) | Medium |
 | [0401-binary-watch](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0401-binary-watch/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Dynamic Programming
