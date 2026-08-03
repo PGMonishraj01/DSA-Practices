@@ -28,6 +28,7 @@
 | [0877-stone-game](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0877-stone-game/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [3731-find-missing-elements](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3731-find-missing-elements/) | Easy |
@@ -48,6 +49,7 @@
 | [1844-replace-all-digits-with-characters](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Sorting
