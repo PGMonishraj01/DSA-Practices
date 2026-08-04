@@ -7,11 +7,11 @@ class Solution {
         }
         boolean[] bool = new boolean[nums.length];
         backtrack(nums, bool , new ArrayList<>());
-        StringBuilder  sb = new StringBuilder();
-        for(int i = 0; i < list.get(k-1).size(); i++){
-            sb.append(list.get(k-1).get(i));
+        String s = "";
+        for(int i : list.get(k-1)){
+            s += i+"";
         }
-        return sb.toString();
+        return s;
     }
     public void backtrack(int[] nums, boolean[] bool, List<Integer> ans){
         if(ans.size()==nums.length){
