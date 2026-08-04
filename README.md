@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0013-roman-to-integer/) | Easy |
+| [0060-permutation-sequence](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0060-permutation-sequence/) | Hard |
 | [0231-power-of-two](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0231-power-of-two/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0877-stone-game/) | Medium |
@@ -22,6 +23,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0060-permutation-sequence](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0060-permutation-sequence/) | Hard |
 | [0231-power-of-two](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0231-power-of-two/) | Easy |
 ## Array
 | Problem Name | Difficulty |
