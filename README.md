@@ -165,4 +165,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3310-remove-methods-from-project/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3310-remove-methods-from-project/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3310-remove-methods-from-project/) | Medium |
 <!---LeetCode Topics End-->
