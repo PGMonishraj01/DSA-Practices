@@ -14,6 +14,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3895-count-digit-appearances](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3895-count-digit-appearances/) | Medium |
 | [3945-digit-frequency-score](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3945-digit-frequency-score/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -53,6 +54,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [3731-find-missing-elements](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3731-find-missing-elements/) | Easy |
+| [3895-count-digit-appearances](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3895-count-digit-appearances/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
