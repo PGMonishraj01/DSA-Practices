@@ -24,6 +24,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
