@@ -40,6 +40,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0877-stone-game](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0877-stone-game/) | Medium |
+| [1014-best-sightseeing-pair](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1406-stone-game-iii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
@@ -126,6 +127,7 @@
 | ------- | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0877-stone-game](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0877-stone-game/) | Medium |
+| [1014-best-sightseeing-pair](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1406-stone-game-iii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1406-stone-game-iii/) | Hard |
 | [3490-count-beautiful-numbers](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3490-count-beautiful-numbers/) | Hard |
 ## Game Theory
