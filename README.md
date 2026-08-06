@@ -127,6 +127,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0877-stone-game](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1406-stone-game-iii/) | Hard |
+| [3490-count-beautiful-numbers](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3490-count-beautiful-numbers/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
