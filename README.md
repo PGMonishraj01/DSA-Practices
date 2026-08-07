@@ -42,6 +42,7 @@
 | [0040-combination-sum-ii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0047-permutations-ii/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -116,6 +117,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
