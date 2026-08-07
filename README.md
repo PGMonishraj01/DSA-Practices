@@ -15,6 +15,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2427-number-of-common-factors](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2427-number-of-common-factors/) | Easy |
+| [2443-sum-of-number-and-its-reverse](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3895-count-digit-appearances](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3895-count-digit-appearances/) | Medium |
@@ -164,6 +165,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2427-number-of-common-factors](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2427-number-of-common-factors/) | Easy |
+| [2443-sum-of-number-and-its-reverse](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
