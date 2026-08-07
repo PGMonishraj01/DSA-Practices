@@ -9,6 +9,7 @@
 | [0231-power-of-two](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0231-power-of-two/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0877-stone-game/) | Medium |
+| [1037-valid-boomerang](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1037-valid-boomerang/) | Easy |
 | [1406-stone-game-iii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1406-stone-game-iii/) | Hard |
 | [1837-sum-of-digits-in-base-k](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
@@ -49,6 +50,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0877-stone-game](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0877-stone-game/) | Medium |
 | [1014-best-sightseeing-pair](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1014-best-sightseeing-pair/) | Medium |
+| [1037-valid-boomerang](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1037-valid-boomerang/) | Easy |
 | [1406-stone-game-iii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -231,4 +233,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0796-rotate-string/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1037-valid-boomerang](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1037-valid-boomerang/) | Easy |
 <!---LeetCode Topics End-->
