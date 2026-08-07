@@ -49,6 +49,7 @@
 | [1014-best-sightseeing-pair](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1406-stone-game-iii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
