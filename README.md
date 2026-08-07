@@ -53,6 +53,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -67,6 +68,7 @@
 | [0013-roman-to-integer](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0013-roman-to-integer/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3731-find-missing-elements/) | Easy |
@@ -94,6 +96,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3731-find-missing-elements/) | Easy |
@@ -120,6 +123,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 ## Prefix Sum
