@@ -1,6 +1,7 @@
 class Solution {
     public boolean sumOfNumberAndReverse(int num) {
-        for(int i = 0; i < (Math.pow(10,5)); i++){
+        if(num == 0 )return true;
+        for(int i = 0; i < num; i++){
             int rev = 0;
             int x = i;
             while(x != 0){
