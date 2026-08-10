@@ -75,6 +75,7 @@
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3038-maximum-number-of-operations-with-the-same-score-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3731-find-missing-elements/) | Easy |
 | [3895-count-digit-appearances](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3895-count-digit-appearances/) | Medium |
+| [3921-score-validator](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3921-score-validator/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +106,7 @@
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3707-equal-score-substrings](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3707-equal-score-substrings/) | Easy |
+| [3921-score-validator](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3921-score-validator/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +124,7 @@
 | ------- | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3038-maximum-number-of-operations-with-the-same-score-i/) | Easy |
+| [3921-score-validator](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3921-score-validator/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
