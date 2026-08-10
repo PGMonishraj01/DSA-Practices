@@ -54,6 +54,7 @@
 | [0877-stone-game](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0877-stone-game/) | Medium |
 | [1014-best-sightseeing-pair](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1037-valid-boomerang](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1037-valid-boomerang/) | Easy |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1406-stone-game-iii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -80,6 +81,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0013-roman-to-integer/) | Easy |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
@@ -144,6 +146,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2833-furthest-point-from-origin/) | Easy |
