@@ -66,6 +66,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
+| [2855-minimum-right-shifts-to-sort-the-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2855-minimum-right-shifts-to-sort-the-array/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3038-maximum-number-of-operations-with-the-same-score-i/) | Easy |
