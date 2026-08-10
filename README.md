@@ -55,6 +55,7 @@
 | [1037-valid-boomerang](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1037-valid-boomerang/) | Easy |
 | [1406-stone-game-iii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -264,4 +265,12 @@
 | [0101-symmetric-tree](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0226-invert-binary-tree/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 <!---LeetCode Topics End-->
