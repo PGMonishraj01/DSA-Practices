@@ -71,6 +71,7 @@
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2855-minimum-right-shifts-to-sort-the-array/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3038-maximum-number-of-operations-with-the-same-score-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3731-find-missing-elements/) | Easy |
 | [3895-count-digit-appearances](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3895-count-digit-appearances/) | Medium |
@@ -113,6 +114,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3731-find-missing-elements/) | Easy |
 ## Simulation
@@ -182,6 +184,7 @@
 | [1925-count-square-sum-triples](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2427-number-of-common-factors](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2427-number-of-common-factors/) | Easy |
 | [2443-sum-of-number-and-its-reverse](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
