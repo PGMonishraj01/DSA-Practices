@@ -237,6 +237,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0226-invert-binary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -285,6 +286,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0226-invert-binary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -302,6 +304,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
