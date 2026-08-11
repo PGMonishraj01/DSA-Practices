@@ -66,6 +66,7 @@
 | [2248-intersection-of-multiple-arrays](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2540-minimum-common-value](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
@@ -86,6 +87,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2540-minimum-common-value](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2540-minimum-common-value/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3731-find-missing-elements/) | Easy |
@@ -132,12 +134,14 @@
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [2540-minimum-common-value](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2540-minimum-common-value/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [2540-minimum-common-value](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2540-minimum-common-value/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
