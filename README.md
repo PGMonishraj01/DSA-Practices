@@ -73,6 +73,7 @@
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2855-minimum-right-shifts-to-sort-the-array/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3038-maximum-number-of-operations-with-the-same-score-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3731-find-missing-elements/) | Easy |
@@ -88,6 +89,7 @@
 | [2248-intersection-of-multiple-arrays](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2540-minimum-common-value](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2540-minimum-common-value/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3731-find-missing-elements/) | Easy |
@@ -154,6 +156,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 ## Prefix Sum
