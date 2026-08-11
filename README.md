@@ -233,6 +233,7 @@
 | [0100-same-tree](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0112-path-sum/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0226-invert-binary-tree/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
@@ -278,6 +279,7 @@
 | [0100-same-tree](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0112-path-sum/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -286,11 +288,13 @@
 | [0100-same-tree](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0112-path-sum/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0226-invert-binary-tree/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
