@@ -72,6 +72,7 @@
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2855-minimum-right-shifts-to-sort-the-array/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
@@ -89,6 +90,7 @@
 | [2248-intersection-of-multiple-arrays](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2540-minimum-common-value](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2540-minimum-common-value/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
@@ -316,4 +318,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 <!---LeetCode Topics End-->
