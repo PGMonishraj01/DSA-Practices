@@ -49,6 +49,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0877-stone-game](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0877-stone-game/) | Medium |
@@ -84,6 +85,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0013-roman-to-integer/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -120,6 +122,7 @@
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0047-permutations-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
@@ -137,6 +140,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [2540-minimum-common-value](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2540-minimum-common-value/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
@@ -145,6 +149,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [2540-minimum-common-value](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2540-minimum-common-value/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
