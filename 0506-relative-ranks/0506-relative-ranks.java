@@ -4,17 +4,21 @@ class Solution {
                 .mapToObj(String::valueOf)
                 .collect(Collectors.toList());
 
-        List<String> original = new ArrayList<>(list);
-
         int[] arr = Arrays.copyOf(score, score.length);
         Arrays.sort(arr);
+
+        HashMap<Integer, Integer> map = new HashMap<>();
+
+        for (int i = 0; i < score.length; i++) {
+            map.put(score[i], i);
+        }
 
         int c = 0;
 
         for (int i = arr.length - 1; i >= 0; i--) {
             c++;
 
-            int index = original.indexOf(String.valueOf(arr[i]));
+            int index = map.get(arr[i]);
 
             if (c == 1) {
                 list.set(index, "Gold Medal");
