@@ -60,6 +60,7 @@
 | [1406-stone-game-iii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -127,6 +128,7 @@
 | [0506-relative-ranks](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0506-relative-ranks/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
