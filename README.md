@@ -85,6 +85,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3038-maximum-number-of-operations-with-the-same-score-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3731-find-missing-elements/) | Easy |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3895-count-digit-appearances](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3895-count-digit-appearances/) | Medium |
 | [3921-score-validator](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3921-score-validator/) | Easy |
 ## Hash Table
@@ -141,6 +142,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3731-find-missing-elements/) | Easy |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
