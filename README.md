@@ -51,6 +51,7 @@
 | [0046-permutations](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0047-permutations-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -164,6 +165,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [2540-minimum-common-value](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2540-minimum-common-value/) | Easy |
 ## Divide and Conquer
