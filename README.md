@@ -115,6 +115,7 @@
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0013-roman-to-integer/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0434-number-of-segments-in-a-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0796-rotate-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0796-rotate-string/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
