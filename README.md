@@ -118,6 +118,7 @@
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2785-sort-vowels-in-a-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
@@ -136,6 +137,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2785-sort-vowels-in-a-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3731-find-missing-elements/) | Easy |
