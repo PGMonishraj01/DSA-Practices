@@ -107,6 +107,7 @@
 | [2540-minimum-common-value](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2540-minimum-common-value/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
@@ -129,6 +130,7 @@
 | [2785-sort-vowels-in-a-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
@@ -357,4 +359,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 <!---LeetCode Topics End-->
