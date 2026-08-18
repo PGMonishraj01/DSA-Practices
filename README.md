@@ -44,6 +44,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0060-permutation-sequence](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0060-permutation-sequence/) | Hard |
+| [0206-reverse-linked-list](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0231-power-of-two/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -369,4 +370,8 @@
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
