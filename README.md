@@ -64,6 +64,7 @@
 | [1037-valid-boomerang](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1037-valid-boomerang/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1406-stone-game-iii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1406-stone-game-iii/) | Hard |
+| [1408-string-matching-in-an-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
@@ -121,6 +122,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0796-rotate-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0796-rotate-string/) | Easy |
+| [1408-string-matching-in-an-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -312,6 +314,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0796-rotate-string/) | Easy |
+| [1408-string-matching-in-an-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1408-string-matching-in-an-array/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
