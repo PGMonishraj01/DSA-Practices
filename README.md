@@ -19,6 +19,7 @@
 | [2427-number-of-common-factors](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2427-number-of-common-factors/) | Easy |
 | [2443-sum-of-number-and-its-reverse](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
+| [2544-alternating-digit-sum](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2651-calculate-delayed-arrival-time](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
 | [2806-account-balance-after-rounded-purchase](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2806-account-balance-after-rounded-purchase/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
