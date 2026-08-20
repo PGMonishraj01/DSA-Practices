@@ -109,6 +109,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2347-best-poker-hand](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2347-best-poker-hand/) | Easy |
 | [2540-minimum-common-value](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2540-minimum-common-value/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -133,6 +134,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
@@ -195,6 +197,7 @@
 | [1128-number-of-equivalent-domino-pairs](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2347-best-poker-hand](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2347-best-poker-hand/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
