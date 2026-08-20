@@ -63,6 +63,7 @@
 | [0506-relative-ranks](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0506-relative-ranks/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0877-stone-game](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0877-stone-game/) | Medium |
 | [1014-best-sightseeing-pair](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1037-valid-boomerang](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1037-valid-boomerang/) | Easy |
@@ -181,6 +182,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [2540-minimum-common-value](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2540-minimum-common-value/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
