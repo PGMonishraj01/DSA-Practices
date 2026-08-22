@@ -112,6 +112,7 @@
 | [1128-number-of-equivalent-domino-pairs](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
@@ -138,6 +139,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
@@ -204,6 +206,7 @@
 | ------- | ------- |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2347-best-poker-hand](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2347-best-poker-hand/) | Easy |
