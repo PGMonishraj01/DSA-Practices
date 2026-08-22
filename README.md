@@ -42,6 +42,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3950-exactly-one-consecutive-set-bits-pair/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
