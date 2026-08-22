@@ -29,6 +29,7 @@
 | [3870-count-commas-in-range](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3895-count-digit-appearances](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3895-count-digit-appearances/) | Medium |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 | [3945-digit-frequency-score](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3945-digit-frequency-score/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -314,6 +315,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2427-number-of-common-factors](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2427-number-of-common-factors/) | Easy |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
