@@ -76,6 +76,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1848-minimum-distance-to-the-target-element](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
