@@ -24,6 +24,7 @@
 | [2806-account-balance-after-rounded-purchase](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2806-account-balance-after-rounded-purchase/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3870-count-commas-in-range](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3871-count-commas-in-range-ii/) | Medium |
