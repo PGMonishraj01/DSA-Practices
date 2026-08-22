@@ -147,6 +147,7 @@
 | [2833-furthest-point-from-origin](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3136-valid-word](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3136-valid-word/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3707-equal-score-substrings](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3707-equal-score-substrings/) | Easy |
