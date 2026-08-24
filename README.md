@@ -103,6 +103,7 @@
 | [3005-count-elements-with-maximum-frequency](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3038-maximum-number-of-operations-with-the-same-score-i/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3731-find-missing-elements/) | Easy |
@@ -188,6 +189,7 @@
 | ------- | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3038-maximum-number-of-operations-with-the-same-score-i/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3921-score-validator](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3921-score-validator/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Two Pointers
