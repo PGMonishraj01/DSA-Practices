@@ -94,6 +94,7 @@
 | [2540-minimum-common-value](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2643-row-with-maximum-ones/) | Easy |
+| [2678-number-of-senior-citizens](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2855-minimum-right-shifts-to-sort-the-array/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
@@ -153,6 +154,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2678-number-of-senior-citizens](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2833-furthest-point-from-origin/) | Easy |
