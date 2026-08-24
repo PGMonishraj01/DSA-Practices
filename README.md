@@ -12,6 +12,7 @@
 | [1037-valid-boomerang](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1037-valid-boomerang/) | Easy |
 | [1406-stone-game-iii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1406-stone-game-iii/) | Hard |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1641-count-sorted-vowel-strings](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1837-sum-of-digits-in-base-k](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -245,6 +246,7 @@
 | [0877-stone-game](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0877-stone-game/) | Medium |
 | [1014-best-sightseeing-pair](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1406-stone-game-iii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1406-stone-game-iii/) | Hard |
+| [1641-count-sorted-vowel-strings](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [3490-count-beautiful-numbers](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3490-count-beautiful-numbers/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -254,6 +256,7 @@
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
