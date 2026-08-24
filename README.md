@@ -109,6 +109,7 @@
 | [3861-minimum-capacity-box](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3895-count-digit-appearances](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3895-count-digit-appearances/) | Medium |
 | [3921-score-validator](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3921-score-validator/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,6 +187,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3038-maximum-number-of-operations-with-the-same-score-i/) | Easy |
 | [3921-score-validator](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3921-score-validator/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/PGMonishraj01/DSA-Practices/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
