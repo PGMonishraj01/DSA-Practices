@@ -40,6 +40,7 @@
 | [0401-binary-watch](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0401-binary-watch/) | Easy |
 | [0461-hamming-distance](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0461-hamming-distance/) | Easy |
 | [0476-number-complement](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0476-number-complement/) | Easy |
+| [0491-non-decreasing-subsequences](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0693-binary-number-with-alternating-bits](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
@@ -67,6 +68,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0491-non-decreasing-subsequences](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0506-relative-ranks](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0506-relative-ranks/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0667-beautiful-arrangement-ii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0667-beautiful-arrangement-ii/) | Medium |
@@ -121,6 +123,7 @@
 | [0013-roman-to-integer](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0013-roman-to-integer/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PGMonishraj01/DSA-Practices/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -248,6 +251,7 @@
 | [0046-permutations](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0047-permutations-ii/) | Medium |
 | [0401-binary-watch](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0401-binary-watch/) | Easy |
+| [0491-non-decreasing-subsequences](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Dynamic Programming
