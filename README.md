@@ -75,6 +75,7 @@
 | [0877-stone-game](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0877-stone-game/) | Medium |
 | [1014-best-sightseeing-pair](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1037-valid-boomerang](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1037-valid-boomerang/) | Easy |
+| [1053-previous-permutation-with-one-swap](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1053-previous-permutation-with-one-swap/) | Medium |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1406-stone-game-iii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1406-stone-game-iii/) | Hard |
@@ -340,6 +341,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1053-previous-permutation-with-one-swap](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1053-previous-permutation-with-one-swap/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
