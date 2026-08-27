@@ -51,6 +51,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0060-permutation-sequence](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0060-permutation-sequence/) | Hard |
+| [0143-reorder-list](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0231-power-of-two/) | Easy |
 ## Array
@@ -205,6 +206,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0143-reorder-list](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0143-reorder-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -404,6 +406,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0143-reorder-list](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
@@ -421,5 +424,6 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0143-reorder-list](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
