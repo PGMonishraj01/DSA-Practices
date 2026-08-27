@@ -50,6 +50,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0060-permutation-sequence](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0060-permutation-sequence/) | Hard |
 | [0143-reorder-list](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0206-reverse-linked-list/) | Easy |
@@ -424,6 +425,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0143-reorder-list](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/PGMonishraj01/DSA-Practices/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
